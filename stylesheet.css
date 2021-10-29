@@ -1,5 +1,5 @@
 * {
-	font-family: Arial, Verdana, sans-serif;
+	font-family: Calibri, Arial, sans-serif;
 	color: #665544;
 	text-align: center;
 }
@@ -7,6 +7,8 @@
 body {
 	width: 980px;
 	margin:  0 auto;
+	padding:  5px;
+	background-color: #d4d4d4;
 }
 
 nav {
@@ -37,6 +39,11 @@ article {
 	margin: 10px;
 	width: 280px;
 	float:  left;
+}
+
+.descList {
+	font-family: Georgia, Courier New, serif;
+	text_align: left;
 }
 
 .mart {
